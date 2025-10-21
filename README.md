@@ -46,4 +46,4 @@ The dashboard gives an easy and interactive way to explore total sales, profit, 
 
 ---
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard.png)  
+![Dashboard Preview](Dashboard_Screenshots/Screenshot.png)  
